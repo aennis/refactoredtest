@@ -1,0 +1,9 @@
+C:\Users\aenni\Downloads\RefactoringTest\RefactoringTest\RefactoringTestConsole\bin\Debug\RefactoringTestConsole.exe
+C:\Users\aenni\Downloads\RefactoringTest\RefactoringTest\RefactoringTestConsole\bin\Debug\RefactoringTestConsole.pdb
+C:\Users\aenni\Downloads\RefactoringTest\RefactoringTest\RefactoringTestConsole\bin\Debug\RefactoringTest.dll
+C:\Users\aenni\Downloads\RefactoringTest\RefactoringTest\RefactoringTestConsole\bin\Debug\RefactoringTest.pdb
+C:\Users\aenni\Downloads\RefactoringTest\RefactoringTest\RefactoringTestConsole\obj\Debug\RefactoringTestConsole.csprojAssemblyReference.cache
+C:\Users\aenni\Downloads\RefactoringTest\RefactoringTest\RefactoringTestConsole\obj\Debug\RefactoringTestConsole.csproj.CoreCompileInputs.cache
+C:\Users\aenni\Downloads\RefactoringTest\RefactoringTest\RefactoringTestConsole\obj\Debug\RefactoringTestConsole.csproj.CopyComplete
+C:\Users\aenni\Downloads\RefactoringTest\RefactoringTest\RefactoringTestConsole\obj\Debug\RefactoringTestConsole.exe
+C:\Users\aenni\Downloads\RefactoringTest\RefactoringTest\RefactoringTestConsole\obj\Debug\RefactoringTestConsole.pdb
